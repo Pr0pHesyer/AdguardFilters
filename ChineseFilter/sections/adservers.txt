@@ -264,5 +264,6 @@
 ||83.locksmaker.com.cn^$third-party
 ||yqrta.xyz^$third-party
 ||zjgfq.com^$third-party
+||advertserver.hiby.com^$third-party
 !+ NOT_OPTIMIZED
 ||1002.men^
